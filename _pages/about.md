@@ -16,7 +16,7 @@ redirect_from:
 - E-mail: kaifa dot zhao (at) connect dot edu dot hk, zhaokaifa (at) qq dot com
 
 ## Biography
-Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his M.S. in Jiangnan University, advised by [Prof. Pengjiang Qian](http://ai.jiangnan.edu.cn/info/1013/1509.htm). His current research interests include Mobile Security, AI Security, Machine Learning, Software Engineering.
+Kaifa is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his M.S. in Jiangnan University, advised by [Prof. Pengjiang Qian](http://ai.jiangnan.edu.cn/info/1013/1509.htm). His current research interests include Mobile Security, AI Security, Machine Learning, Software Engineering.
 
 
 ## Education
