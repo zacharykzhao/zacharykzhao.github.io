@@ -28,8 +28,8 @@ Kaifa is currently a Ph.D. candidate in Department of Computing at the Hong Kong
 - **Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps** 
   [[paper]](https://arxiv.org/abs/2301.12348)
   [[tool]](https://doi.org/10.5281/zenodo.7647779)
-   <u>Kaifa Zhao</u>, Xian Zhan, Le Yu, Shiyao Zhou, Hao Zhou, Xiapu Luo, Haoyu Wang, Yepang Liu
-  45th International Conference on Software Engineering ([**ICSE**](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track#event-overview), May, 2023)
+  <u>Kaifa Zhao</u>, Xian Zhan, Le Yu, Shiyao Zhou, Hao Zhou, Xiapu Luo, Haoyu Wang, Yepang Liu  
+  45th International Conference on Software Engineering, ([**ICSE**](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track#event-overview), May, 2023)
 - **SAID: State-aware Defense Against Injection Attacks on In-vehicle Network**
   [[paper]](/files/SAID.pdf)
   [[tool]](https://github.com/rewhy/said)  
@@ -38,7 +38,7 @@ Kaifa is currently a Ph.D. candidate in Department of Computing at the Hong Kong
 - **Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols**
   [[paper]](/files/Toward_sec22.pdf)  
   Le Yu, yangyang Liu, Pengfei Jing, Xiapu Luo, Lei Xue, <u>Kaifa Zhao</u>, Yajin Zhou, Ting Wang, Guofei Gu, Sen Nie, and Shi Wu   
-Proceedings of the 31st USENIX Security Symposium ([**USENIX Security**](https://www.usenix.org/conference/usenixsecurity22)), August, 2022  
+  Proceedings of the 31st USENIX Security Symposium ([**USENIX Security**](https://www.usenix.org/conference/usenixsecurity22)), August, 2022  
 - **Binarizedattack: Structural poisoning attacks to graph-based anomaly detection**
   [[paper]](/files/Binarizedattack.pdf)  
   Yulin Zhu, Yuni Lai, <u>Kaifa Zhao</u>, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
