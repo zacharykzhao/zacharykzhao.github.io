@@ -25,7 +25,7 @@ Kaifa is currently a Ph.D. candidate in Department of Computing at the Hong Kong
 
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=fbbYlrgAAAAJ&hl=zh-TW))
-- ** Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps** 
+- **Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps** 
   [[paper]](https://arxiv.org/abs/2301.12348)
   [[tool]](https://doi.org/10.5281/zenodo.7647779)
    <u>Kaifa Zhao</u>, Xian Zhan, Le Yu, Shiyao Zhou, Hao Zhou, Xiapu Luo, Haoyu Wang, Yepang Liu
