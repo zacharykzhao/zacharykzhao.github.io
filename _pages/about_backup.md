@@ -29,12 +29,12 @@ Kaifa is currently a Ph.D. candidate in Department of Computing at the Hong Kong
   [[paper]](https://arxiv.org/abs/2301.12348)
   [[tool]](https://doi.org/10.5281/zenodo.7647779)
   <u>Kaifa Zhao</u>, Xian Zhan, Le Yu, Shiyao Zhou, Hao Zhou, Xiapu Luo, Haoyu Wang, and Yepang Liu  
-  45th International Conference on Software Engineering, ([**ICSE**](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track#event-overview), May, 2023)
+  45th International Conference on Software Engineering, ([**ICSE**](https://conf.researchr.org/track/icse-2023/icse-2023-technical-track#event-overview)), May, 2023
 - **A Fine-grained Chinese Software Privacy Policy Dataset for Sequence Labeling and Regulation Compliant Identification**
   [[paper]](https://aclanthology.org/2022.emnlp-main.700/) 
   [[dataset]](https://github.com/zacharykzhao/CA4P-483)  
   <u>Kaifa Zhao</u>, Le Yu, Shiyao Zhou, Jing Li, Xiapu Luo, Yat Fei Aemon Chiu, and Yutong Liu  
-  The 2022 Conference on Empirical Methods in Natural Language Processing, ([EMNLP], Nov, 2022)
+  The 2022 Conference on Empirical Methods in Natural Language Processing, ([EMNLP](https://2022.emnlp.org/)), Nov, 2022
 - **SAID: State-aware Defense Against Injection Attacks on In-vehicle Network**
   [[paper]](/files/SAID.pdf)
   [[tool]](https://github.com/rewhy/said)  
